@@ -2,7 +2,7 @@
   <div class="section">
     <div class="card is-clearfix columns">
         <figure class="card-image is-480x480 column is-one-thirds">
-          <img src="https://bulma.io/images/placeholders/480x480.png">
+          <img src="https://www.smartdatacollective.com/wp-content/uploads/2016/09/ecommerce-1-780x439.png.webp">
         </figure>
         <div class="card-content column is-two-thirds">
           <div class="card-content__title">
